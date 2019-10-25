@@ -13,6 +13,7 @@ Welcome everyone to contribute to this project!
 - [bubbleSort.py](https://github.com/Henry-Jia/python-tools/blob/master/bubbleSort.py): bubble sort
 - [chess.py](https://github.com/Henry-Jia/python-tools/blob/master/chess.py): a chess game
 - [circle_using_square.py](https://github.com/Henry-Jia/python-tools/blob/master/circle_using_square.py): circle using number of squares
+- [decorators.py](https://github.com/Henry-Jia/python-tools/blob/master/decorators.py): A start guide to use simple and argument decorators
 - [draw_PeppaPig.py](https://github.com/Henry-Jia/python-tools/blob/master/draw_PeppaPig.py): draw PeppaPig with Python
 - [electricity_consumption.py](https://github.com/Henry-Jia/python-tools/blob/master/electricity_consumption.py): calculates electricity consumed
 - [factorial.py](https://github.com/Henry-Jia/python-tools/blob/master/factorial.py): a simple program to calculate the factorial of a number
