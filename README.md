@@ -48,6 +48,7 @@ Welcome everyone to contribute to this project!
 - [sort_n_numbers.py](https://github.com/Henry-Jia/python-tools/blob/master/sort_n_numbers.py): a program to sort n numbers
 - [table_element_statistics_and_deletion.py](https://github.com/Henry-Jia/python-tools/blob/master/table_element_statistics_and_deletion.py): excel table element statistics and deletion
 - [tic_tac.py](https://github.com/Henry-Jia/python-tools/blob/master/tic_tac.py): Tic Tac Toe Game
+- [twitter_seek/twitter_peek.py](https://github.com/Henry-Jia/python-tools/blob/master/twitter_peek/twitter_peek.py): A twitter peek to get last n tweets in a twitter page.
 - [webcrawler.py](https://github.com/Henry-Jia/python-tools/blob/master/webcrawler.py): this is a website crawler written by using selenium framework for automation
 - [wechat_friends_analyse](https://github.com/Henry-Jia/python-tools/tree/master/wechat_friends_analyse): WeChat friends statistics and analysis tools
 
