@@ -7,6 +7,7 @@ Welcome everyone to contribute to this project!
 
 
 ## Tool List：
+- [acronym.py](https://github.com/Henry-Jia/python-tools/blob/master/acronym.py): Calculate a given string acronym
 - [age.py](https://github.com/Henry-Jia/python-tools/blob/master/age.py): compute the age for a person
 - [body_mass_index_GUI.py](https://github.com/Henry-Jia/python-tools/blob/master/body_mass_index_GUI.py): create body mass index calculated GUI by Python
 - [bot/bot.py](https://github.com/Henry-Jia/python-tools/blob/master/bot/bot.py): simple telegram bot
